@@ -188,24 +188,6 @@
       "twitter": "#",
       "linkedin": "#"
     }
-  },
-  {
-    "employee_id": 11,
-    "first_name": "Hank",
-    "last_name": "Anderson",
-    "date_of_birth": "1987-06-09",
-    "email": "hank.anderson@example.com",
-    "phone_number": "555-8765",
-    "address": "321 Ash St",
-    "position": "Project Manager",
-    "department": "Operations",
-    "hire_date": "2013-12-05",
-    "salary": 77000,
-    "imgSrc": "https://t4.ftcdn.net/jpg/03/83/25/83/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg",
-    "socialLinks": {
-      "facebook": "#",
-      "twitter": "#",
-      "linkedin": "#"
-    }
   }
+
 ]
